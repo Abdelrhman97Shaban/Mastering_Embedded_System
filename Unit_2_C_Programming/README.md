@@ -1,1 +1,1 @@
-# Unit 2: c Programming
+# Unit 2: C Programming
