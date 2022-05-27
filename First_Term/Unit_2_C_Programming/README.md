@@ -13,7 +13,7 @@
 | 7 |  Write Source Code to Swap Two Numbers without temp variable. |                [Solution](https://github.com/Abdelrhman97Shaban/Mastering_Embedded_System/blob/main/First_Term/Unit_2_C_Programming/1_C_Basics_Assignments/EX7_C_Program_To_Swap_Two_Numbers_Without_Temp_Variable.c)      | 
 
 
-## 2. C Basics Assigments
+## 2. Conditions & Loops Assigments
 
 | Assignments |                                                Description                                              				  |                Solution      |                                                                                                                                                                               									  
 |:---:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
