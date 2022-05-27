@@ -6,7 +6,7 @@
  *  Description : Unit 2 C-Programming >> Assignment 1 "Print Sentence"
  */
 
-/*
+
 #include <stdio.h>
 
 int main (void)
@@ -15,4 +15,4 @@ int main (void)
 	return 0;
 }
 
-*/
+
