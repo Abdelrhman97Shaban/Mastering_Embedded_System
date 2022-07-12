@@ -32,4 +32,5 @@ int main (void)
 
     printf("Sum of distances: %d\'-%.1f\"",sum.feet,sum.inch); 
     return 0; 
+    
 }

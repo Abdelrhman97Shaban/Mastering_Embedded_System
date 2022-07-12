@@ -23,5 +23,6 @@ int main (void)
     printf("Name: %s\n",student.name);
     printf("Roll: %d\n",student.roll);
     printf("Name: %0.2f\n",student.mark); 
-     
+
+    return 0;
 }

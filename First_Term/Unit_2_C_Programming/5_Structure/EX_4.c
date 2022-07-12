@@ -30,7 +30,5 @@ int main (void)
         printf("Name: %s\n",students[i].name);
         printf("Name: %0.2f\n",students[i].mark);
     }
-  
-   
     return 0; 
 }
